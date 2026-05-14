@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://azizpixels.me">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/abdualziz-mohammed-alsuwailem">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:a.alswilem2@gmail.com">✉️ Email</a>
 </p>
 
