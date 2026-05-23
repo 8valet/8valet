@@ -16,7 +16,7 @@
 Information Technology student at King Abdulaziz University (GPA 4.39, graduating 2027).
 I work at the intersection of engineering and design — building interfaces that are clean, fast, and intentional.
 
-- 🎯 Focused on **frontend development** and **UI/UX**
+- 🎯 Focused on **SaaS Development**
 - 🌱 Currently learning **Node.js** and **Python**
 - 🚀 Open to frontend roles, freelance, and creative collaborations
 - 📷 Also into photography and pixel art
